@@ -1,0 +1,14 @@
+{
+  "name": "homebridge-ortho-dimmer",
+  "version": "0.0.1",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "dependencies": {
+    "ortho-remote": "^0.4.0"
+  },
+  "engines": {
+    "node": ">=10.17.0",
+    "homebridge": ">=0.4.8"
+  }
+}
